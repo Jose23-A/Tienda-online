@@ -1,0 +1,38 @@
+*{
+    padding-left: 1%;
+    padding-right: 1%;
+    margin: 0;
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    min-height: 100;
+}
+.margenes{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    height: 90%;
+}
+
+.botones{
+    height: 10%;
+}
+
+.titulo{
+    height: 70px;
+    width: 400px;
+    color: #fff;
+    margin: 10px;
+    text-align: center;
+    align-content: center;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 97%;
+    height: 2.5rem;            /* altura de pie de página */
+}
